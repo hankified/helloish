@@ -3,7 +3,6 @@ Slow is smooth & smooth is fast.
 ```
 <div align="center">
   <br>
-  <h1>Henry Nahum</h1>
-  <sub>Built with ❤︎ by 
+  <sub>Built with ❤︎ by Henry Nahum
   <a href="https://github.com/hankified</a></sub>
 </div>
